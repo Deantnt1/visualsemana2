@@ -11,6 +11,9 @@
     border-style:inset;
     border-color: rgb(194, 24, 78);
     border-width: 20px; 
+    text-shadow: 3px 5px 40px;
+    text-transform: uppercase;
+    letter-spacing: 20px;
     }
     #Parrafoprincipal
      { background-color:rgb(225, 52, 196);
@@ -18,6 +21,8 @@
        border-style:solid;
        border-width:5px;
        text-align-last: right;
+       text-indent: 2px;
+       line-height: 3;
     }
     #parrafosecundario 
     { background-color:skyblue;

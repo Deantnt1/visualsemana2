@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <link rel="stylesheet" href="estilos.css">
+    
+ 
+   </head>
+
+   <body>
+    <header>
+        <h1> 
+            NETFLEX</h1>
+    </header>
+    
+    <nav> 
+        
+     <a href="index.html">Inicio</a>      
+     <a href="peliculas.html">Peliculas</a>    
+     <a href="suscríbete.html">Suscríbete</a>
+    </nav>
+    <main>
+<section>
+    <h2>Con NETFLEX vive películas y series ilimitadas,y mucho más</h2>
+     <p>Disfruta donde quieras. Cancela cuando quieras.</p>
+</section>
+
+ <section>
+   <h2>Disfruta en tu TV</h2>
+   <P>Ve en smartTV, Play Station, XBOX y más</P> 
+ </section>
+    
+    </main>
+    <footer> Para más informes llama al 0800-3235</footer>
+     </body>
+  
+</html>

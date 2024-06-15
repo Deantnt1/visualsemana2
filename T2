@@ -21,12 +21,12 @@
     <main>
 <section id ="selection1"> 
     <h2>Con NETFLEX vive películas y series ilimitadas,y mucho más</h2>
-     <p>Disfruta donde quieras. Cancela cuando quieras.</p> 
+     <p>Disfruta donde quieras. Cancela cuando quieras. Disfruta donde quieras. Cancela cuando quieras. Disfruta donde quieras. Cancela cuando quieras. Disfruta donde quieras. Cancela cuando quieras. Disfruta donde quieras. Cancela cuando quieras. Disfruta donde quieras. Cancela cuando quieras. Disfruta donde quieras. Cancela cuando quieras.</p> 
 </section>
 
  <section id="selection2"> 
    <h2>Disfruta en tu TV</h2>
-   <P>Ve en smartTV, Play Station, XBOX y más</P> 
+   <P id="parrafo">Ve en smartTV, Play Station, XBOX y másVe en smartTV, Play Station, XBOX y másVe en smartTV, Play Station, XBOX y másVe en smartTV, Play Station, XBOX y másVe en smartTV, Play Station, XBOX y másVe en smartTV, Play Station, XBOX y másVe en smartTV, Play Station, XBOX y másVe en smartTV, Play Station, XBOX y más</P> 
 </section>
     
     </main>

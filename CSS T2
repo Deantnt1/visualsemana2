@@ -42,4 +42,12 @@ footer {
     background-color: black;
 color: white;
 
-}   
+}  
+
+ #parrafo {
+    text-align: justify;
+    line-height: 50px;
+    text-indent: 25px;
+    
+
+ }

@@ -5,14 +5,12 @@
     <title>Document</title>
 </head>
 <body>
-    <main>
-        <section class="caja"> <h1>BOX 01</h1></section>
+    <main class="contenedor">
+        <section class="caja"> BOX 01</section>
         <section class="caja">BOX 02</section>
         <section class="caja">BOX 03</section>
         <section class="caja">BOX 04</section>
-        <section class="caja">BOX 05</section>
-        <section class="caja">BOX 06</section>
-        <section class="caja">BOX 07</section>
+     
     </main>
     
 </body>
